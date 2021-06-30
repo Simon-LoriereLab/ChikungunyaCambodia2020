@@ -5,7 +5,7 @@ The build was constructed using a total of 775 CHIKV full-length genomes encompa
 
 This work was done in collaboration with [Institut Pasteur du Cambodge](https://www.pasteur-kh.org/) (contact: Dr Veasna Duong).
 
-Phylogeny visualized at https://nextstrain.org/community/Simon-LoriereLab/Chikungunya_Cambodia_2020@main
+Phylogeny visualized at https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main
 
 Narratives available at https://nextstrain.org/community/narratives//Simon-LoriereLab/Chikungunya_Cambodia_2020@main/GenomicNarrative
 
