@@ -8,8 +8,6 @@ authorLinks:
 date: "July 2020"
 dataset: "https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?d=tree,map&p=full"
 abstract: "This genomic epidemiology analyzes Chikungunya virus (CHIKV) genomes circulating in Cambodia 2020"
-
-"This work is ongoing, and is performed in collaboration with Institut Pasteur du Cambodge (contact: Dr Veasna Duong)"
 ---
 
 #[Complete genome analysis of Chikungunya virus during the 2020 outbreak in Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?d=tree,map&f_country=Cambodia&p=grid&r=division)
