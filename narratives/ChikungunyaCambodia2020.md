@@ -19,7 +19,7 @@ CHIKV captured from cases in Cambodia during this outbreak belong to the IOL lin
 #[CHIKV diversity in Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?d=tree,map&p=grid?treeZoom=selected)
 
 Phylogenetic analyses show that CHIKV captured from Cambodia during 2020 are closely related to viruses circulating in Thailand 2018-2019, China and Myanmar 2019. 
-The genetic diversity captured suggests multiple introductions in the country. 
+The genetic diversity sampled suggests multiple introductions in the country. 
 
 #[Geographic distribution within Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?c=division&d=tree,map&p=grid&r=division)
 
