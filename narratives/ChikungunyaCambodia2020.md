@@ -24,7 +24,7 @@ The genetic diversity sampled suggests multiple introductions in the country.
 #[Geographic distribution within Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main/subset?c=division&d=tree,map&p=grid&r=division)
 
 
-#[Genomic characterization of CHIKV during the 2020 outbreak in Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?c=subclade&d=tree&f_country=Cambodia&p=full)
+#[Genomic characterization of CHIKV during the 2020 outbreak in Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?c=subclade&d=tree,map&f_country=Cambodia&p=grid&transmissions=hide)
 
 In contrast to the CHIKV captured in 2011, viruses reported from Cambodia in 2020 lacked the E1:A226V substitution associated with an increase of CHIKV dissemination in Ae. Albopictus mosquitoes. Instead, this lineage harbors two other substitutions in the surface proteins (E1:K211E and E2:V264A). 
 
