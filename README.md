@@ -7,7 +7,7 @@ This work is ongoing, and is performed in collaboration with [Institut Pasteur d
 
 Phylogeny visualized at https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main
 
-Narratives available at https://nextstrain.org/community/narratives//Simon-LoriereLab/ChikungunyaCambodia2020@main
+Narratives available at https://nextstrain.org/community/narratives/Simon-LoriereLab/ChikungunyaCambodia2020@main
 
 
 ## Primers scheme
