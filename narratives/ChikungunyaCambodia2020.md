@@ -5,7 +5,7 @@ affiliations: "Evolutionary genomics of RNA viruses, Institut Pasteur"
 authorLinks: 
 - "https://research.pasteur.fr/en/member/fabiana-gambaro/"
 - "https://research.pasteur.fr/en/team/evolutionary-genomics-rna-viruses/"
-date: "July 2020"
+date: "June 2021"
 dataset: "https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?d=tree,map&p=full"
 abstract: "Preliminary Genomic epidemiology analysis Chikungunya virus (CHIKV) genomes circulating in Cambodia 2020"
 ---
