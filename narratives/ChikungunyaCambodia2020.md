@@ -14,17 +14,17 @@ abstract: "Preliminary Genomic epidemiology analysis Chikungunya virus (CHIKV) g
 
 In June 2020, years after the last detection of CHIKV in Cambodia, a Chikungunya outbreak was noted. By the end of September, cases were reported in 23 out of 25 provinces across the country.
 
-CHIKV captured from cases in Cambodia during this outbreak belong to the IOL lineage.
+CHIKV captured from cases in Cambodia during this outbreak belong to the Indian Ocean Lineage (IOL lineage).
 
 #[CHIKV diversity in Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main/subset?d=tree,map&p=grid)
 
-Phylogenetic analyses show that CHIKV captured from Cambodia during 2020 are closely related to viruses circulating in Thailand 2018-2019, China and Myanmar 2019. 
+Phylogenetic analyses show that CHIKV captured from Cambodia during 2020 are closely related to viruses circulating in Thailand 2018-2019, and China and Myanmar 2019. 
 The genetic diversity sampled suggests multiple introductions in the country. 
 
 
 #[Genomic characterization of CHIKV during the 2020 outbreak in Cambodia](https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main?c=subclade&d=tree,map&f_country=Cambodia&p=grid&transmissions=hide)
 
-In contrast to the CHIKV captured in 2011, viruses reported from Cambodia in 2020 lacked the E1:A226V substitution associated with an increase of CHIKV dissemination in Ae. Albopictus mosquitoes. Instead, this lineage harbors two other substitutions in the surface proteins (E1:K211E and E2:V264A). 
+In contrast to the CHIKV captured in 2011, viruses reported from Cambodia in 2020 lack the E1:A226V substitution associated with an increase of CHIKV dissemination in Ae. Albopictus mosquitoes. Instead, this lineage harbors two other substitutions in the surface proteins (E1:K211E and E2:V264A). 
 
 More analyses are ongoing!
 
