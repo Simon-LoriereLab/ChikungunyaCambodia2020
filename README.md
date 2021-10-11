@@ -4,7 +4,8 @@ This repository analyzes genomes of Chikungunya virus (CHIKV) circulating in Cam
 The build was constructed using a total of 775 CHIKV full-length genomes encompassing the main 4 CHIKV lineages: West African (WA), Asian, East Central South African (ECSA) and Indian Ocean Lineage (IOL).The coloring option "subclade" displays the distribution of subclades within the main CHIKV lineages. 
 Within the IOL lineage we highlighted the distribution of AA substitutions (E1:A226V, E1:K211E and E2:V264) that are believed to be potentially biological relevant mutations.
 
-This work is ongoing, and is performed in collaboration with [Institut Pasteur du Cambodge](https://www.pasteur-kh.org/) (contact: Dr Veasna Duong). Please do not hesitate to contact us if this could be relevant to your work!
+This work is ongoing, and is performed in collaboration with [Institut Pasteur du Cambodge](https://www.pasteur-kh.org/) (contact: Dr Veasna Duong). This work has received support from the [CREID network](https://creid-network.org/research-centers/picreid).
+Please do not hesitate to contact us if this could be relevant to your work!
 
 The phylogeny can be visualized at https://nextstrain.org/community/Simon-LoriereLab/ChikungunyaCambodia2020@main
 
